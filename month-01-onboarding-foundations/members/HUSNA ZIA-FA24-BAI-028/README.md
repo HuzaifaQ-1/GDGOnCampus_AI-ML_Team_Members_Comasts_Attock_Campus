@@ -1,51 +1,51 @@
-# 🌸 Husna Zia — AI/ML Learning Journey
+# 🚀 GDG on Campus — AI/ML Learning Journey
 
-**Welcome to my AI & Machine Learning repository!** 👩‍💻
+Welcome to my AI/ML learning repository!
 
-Hi! I'm **Husna Zia**, an aspiring AI/ML enthusiast passionate about learning Python, exploring data, and building practical projects in Artificial Intelligence and Machine Learning.
+Hi, I'm **Husna Zia**, a member of **Google Developer Groups on Campus (GDGOC), Comsats Attock Campus**. This repository contains my assigned tasks, practical exercises, and learning progress as part of the AI/ML learning journey.
 
-This repository is part of my **12-month AI/ML learning journey**, where I practice programming, data analysis, and machine learning concepts through hands-on tasks and projects.
+## 🎯 About This Repository
 
-## 📂 Repository Contents
+This repository is dedicated to completing hands-on AI/ML tasks, strengthening Python programming skills, and building a strong foundation in data science and machine learning.
+
+## 📚 Month 01 — Onboarding & Foundations
+
+This month focuses on developing foundational programming and data-handling skills.
 
 ### 🔢 NumPy Tasks
 
-* Working with NumPy arrays
-* Performing mathematical and numerical operations
-* Practicing array manipulation and indexing
+* Array creation and manipulation
+* Numerical computations
+* Indexing and slicing
+* Basic mathematical operations
 
 ### 🐼 Pandas Tasks
 
-* Creating and manipulating DataFrames
-* Loading and exploring datasets
-* Filtering, selecting, and analyzing data
+* Creating and working with DataFrames
+* Data selection and filtering
+* Data exploration and analysis
+* Basic data manipulation
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tools & Technologies
 
-* **Python** — Programming language
-* **NumPy** — Numerical computing
-* **Pandas** — Data analysis and manipulation
-* **Jupyter Notebook** — Interactive coding and practice
-* **Git & GitHub** — Version control and project sharing
+* Python
+* NumPy
+* Pandas
+* Jupyter Notebook
+* Git and GitHub
 
-## 🎯 My Goals
+## 🌱 Learning Objectives
 
-* Strengthen my Python programming skills.
-* Learn data analysis and visualization.
-* Understand Machine Learning fundamentals.
-* Build practical AI/ML projects.
-* Document my progress and share my learning journey.
-
-## 🚀 Learning Journey
-
-I'm continuously learning, practicing, and improving my technical skills through consistent hands-on work.
-
-Every notebook represents another step toward my goal of becoming an AI/ML professional.
+* Strengthen Python programming fundamentals.
+* Practice numerical computing with NumPy.
+* Learn data manipulation and analysis using Pandas.
+* Complete assigned GDGOC AI/ML tasks.
+* Build practical skills for future machine learning projects.
 
 ## 👩‍💻 About Me
 
 **Husna Zia**
-Aspiring AI/ML Enthusiast | Python Learner | Future AI Engineer
+GDGOC Member | AI/ML Learner
+COMSATS University, Attock Campus
 
-✨ *Learn. Build. Improve. Repeat.*
-
+*Learn by doing. Build with purpose. Grow together.*
